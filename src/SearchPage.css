@@ -1,0 +1,75 @@
+.hero {
+  height: 765px;
+  background: linear-gradient(135deg, #e9edc9 0%, #588157 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  position: relative;
+}
+
+.hero-overlay {
+  text-align: center;
+  max-width: 800px;
+  padding: 32px;
+}
+
+.hero h1 {
+  font-size: 56px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  line-height: 1.2;
+  text-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.hero p {
+  font-size: 20px;
+  margin-bottom: 48px;
+  font-weight: bold;
+  opacity: 0.95;
+}
+
+.hero-searchbar {
+  display: flex;
+  gap: 0;
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 50px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.hero-searchbar input {
+  flex: 1;
+  padding: 19px 32px;
+  border: none;
+  font-size: 16px;
+  outline: none;
+  color: #2d3748;
+}
+
+.hero-searchbar input::placeholder {
+  color: #a0aec0;
+}
+
+.hero-searchbar button {
+  padding: 10px 40px;
+  border: none;
+  background: #344e41;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.hero-searchbar button:hover {
+  background: #081c15;
+}
+
+.properties-section {
+  max-width: 1300px;
+  margin: 32px auto;
+  padding: 20px;
+}

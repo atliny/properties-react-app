@@ -1,0 +1,105 @@
+.property-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.back-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px;
+  background: white;
+  border: 2px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #4a5568;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-bottom: 32px;
+}
+
+.back-button:hover {
+  background: #f7fafc;
+  border-color: #588157;
+  color: #344e41;
+}
+
+.image {
+  width: 100%;
+  height: 500px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  margin-bottom: 32px;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.property-details {
+  background: white;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.property-details h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #1a202c;
+  margin-bottom: 24px;
+  line-height: 1.3;
+}
+
+.property-details p {
+  font-size: 18px;
+  color: #4a5568;
+  margin-bottom: 16px;
+  line-height: 1.7;
+}
+
+.property-details strong {
+  color: #2d3748;
+  font-weight: 700;
+}
+
+.property-details .property-description {
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 2px solid #e2e8f0;
+  color: #2d3748;
+  line-height: 1.8;
+  font-size: 17px;
+}
+
+.error-message {
+  text-align: center;
+  padding: 64px 32px;
+}
+
+.error-message h2 {
+  font-size: 32px;
+  color: #e53e3e;
+  margin-bottom: 24px;
+}
+
+.error-message button {
+  padding: 16px 32px;
+  background: linear-gradient(135deg, #a3b18a 0%, #3a5a40 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.error-message button:hover {
+  transform: translateY(-2px);
+}

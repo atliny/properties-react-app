@@ -1,0 +1,275 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington BR5",
+			"picture":"/images/home-1.jpg",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"/images/flat-2.jpg",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop3",
+            "type":"House",
+            "bedrooms":4,
+            "price":925000,
+            "tenure":"Freehold",
+            "description":"Spacious four bedroom detached family home located on a quiet residential road close to local amenities and excellent transport links. The property offers a large entrance hall, two reception rooms, a modern fitted kitchen with integrated appliances and a separate dining area. Upstairs comprises four well-proportioned bedrooms, including a master bedroom with en-suite, and a contemporary family bathroom. Additional benefits include a private rear garden, off-street parking and a garage.",
+            "location":"Chislehurst Road, Orpington BR6",
+            "picture":"/images/home-3.jpg",
+            "url":"properties/prop3.html",
+            "added": {
+                "month":"November",
+                "day":3,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop4",
+            "type":"Flat",
+            "bedrooms":1,
+            "price":275000,
+            "tenure":"Leasehold",
+            "description":"Well presented one bedroom apartment situated within a modern development close to the town centre and mainline station. The property features an open plan living/kitchen area with integrated appliances, a generous double bedroom and a contemporary bathroom suite. Further benefits include double glazing, secure entry system and allocated parking. Ideal for first-time buyers or investors.",
+            "location":"High Street, Orpington BR5",
+            "picture":"/images/flat-4.jpg",
+            "url":"properties/prop4.html",
+            "added": {
+                "month":"August",
+                "day":21,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop5",
+            "type":"Bungalow",
+            "bedrooms":3,
+            "price":685000,
+            "tenure":"Freehold",
+            "description":"Rarely available three bedroom detached bungalow offering spacious and flexible accommodation throughout. The property comprises a large lounge, modern fitted kitchen, three bedrooms and a family bathroom. Externally, the home benefits from a mature rear garden, driveway parking for multiple vehicles and a detached garage. Conveniently located for local shops, bus routes and green open spaces.",
+            "location":"Poverest Road, St Mary Cray BR5",
+            "picture":"/images/bungalow-5.jpg",
+            "url":"properties/prop5.html",
+            "added": {
+                "month":"October",
+                "day":5,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop6",
+            "type":"House",
+            "bedrooms":2,
+            "price":465000,
+            "tenure":"Freehold",
+            "description":"Charming two bedroom Victorian terraced house retaining many original features. The property offers a through lounge/diner, fitted kitchen and a modern bathroom. Upstairs are two double bedrooms. Outside, there is a low maintenance rear garden. Ideally positioned within walking distance of the station, local schools and shops.",
+            "location":"Station Road, Petts Wood BR5",
+            "picture":"images/home-6.jpg",
+            "url":"properties/prop6.html",
+            "added": {
+                "month":"July",
+                "day":18,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop7",
+            "type":"Flat",
+            "bedrooms":3,
+            "price":520000,
+            "tenure":"Leasehold",
+            "description":"A spacious three bedroom penthouse apartment offering panoramic views and contemporary living. The property features a large open plan living area with access to a private balcony, a fully fitted modern kitchen, three bedrooms including a master with en-suite, and a luxury family bathroom. Benefits include lift access, secure underground parking and concierge service.",
+            "location":"Sevenoaks Way, Orpington BR6",
+            "picture":"/images/flat-7.jpg",
+            "url":"properties/prop7.html",
+            "added": {
+                "month":"September",
+                "day":30,
+                "year":2022
+            }
+        },
+        {
+            "id": "prop8",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 485000,
+            "tenure": "Leasehold",
+            "description": "Modern two bedroom apartment located in the heart of Canary Wharf. Features an open plan living space, floor-to-ceiling windows, concierge service and access to a residents’ gym.",
+            "location": "Canary Wharf, London E14",
+            "picture": "/images/flat-8.jpg",
+            "url": "properties/prop8.html",
+            "added": {
+                "month": "December",
+                "day": 2,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop9",
+            "type": "House",
+            "bedrooms": 4,
+            "price": 610000,
+            "tenure": "Freehold",
+            "description": "Substantial four bedroom detached family home situated in a popular residential area. Includes two reception rooms, a large kitchen/diner, en-suite to master bedroom and a landscaped rear garden.",
+            "location": "Didsbury, Manchester M20",
+            "picture": "/images/home-9.jpg",
+            "url": "properties/prop9.html",
+            "added": {
+                "month": "January",
+                "day": 10,
+                "year": 2023
+        }
+        },
+        {
+            "id": "prop10",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 225000,
+            "tenure": "Leasehold",
+            "description": "One bedroom city centre apartment ideal for first-time buyers or investors. Open plan living, modern kitchen and excellent transport links.",
+            "location": "Jewellery Quarter, Birmingham B18",
+            "picture": "/images/flat-10.jpg",
+            "url": "properties/prop10.html",
+            "added": {
+                "month": "February",
+                "day": 5,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop11",
+            "type": "House",
+            "bedrooms": 3,
+            "price": 395000,
+            "tenure": "Freehold",
+            "description": "Well presented three bedroom semi-detached home with off-street parking and a generous garden. Located close to schools and commuter routes.",
+            "location": "Headingley, Leeds LS6",
+            "picture": "/images/home-11.jpg",
+            "url": "properties/prop11.html",
+            "added": {
+                "month": "March",
+                "day": 18,
+                "year": 2023
+            }
+            },
+        {
+            "id": "prop12",
+            "type": "Bungalow",
+            "bedrooms": 4,
+            "price": 575000,
+            "tenure": "Freehold",
+            "description": "Stylish four bedroom bunglow arranged over three floors, offering flexible living accommodation and a private roof terrace.",
+            "location": "Clifton, Bristol BS8",
+            "picture": "/images/bungalow-12.jpg",
+            "url": "properties/prop12.html",
+            "added": {
+                "month": "April",
+                "day": 9,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop13",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 310000,
+            "tenure": "Leasehold",
+            "description": "Two bedroom waterfront apartment with stunning river views. Benefits include balcony access, secure parking and lift access.",
+            "location": "Albert Dock, Liverpool L3",
+            "picture": "/images/flat-13.jpg",
+            "url": "properties/prop13.html",
+            "added": {
+                "month": "May",
+                "day": 14,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop14",
+            "type": "House",
+            "bedrooms": 5,
+            "price": 725000,
+            "tenure": "Freehold",
+            "description": "Impressive five bedroom detached home offering spacious living, a double garage and a large private garden. Ideal for growing families.",
+            "location": "West Bridgford, Nottingham NG2",
+            "picture": "/images/home-14.jpg",
+            "url": "properties/prop14.html",
+            "added": {
+                "month": "June",
+                "day": 1,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop15",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 450000,
+            "tenure": "Leasehold",
+            "description": "Bright and airy seafront apartment with uninterrupted sea views. Features an open plan kitchen/living area and a private balcony.",
+            "location": "Brighton Marina, Brighton BN2",
+            "picture": "/images/flat-15.jpg",
+            "url": "properties/prop15.html",
+            "added": {
+                "month": "July",
+                "day": 22,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop16",
+            "type": "House",
+            "bedrooms": 3,
+            "price": 480000,
+            "tenure": "Freehold",
+            "description": "Three bedroom modern family home located within a quiet cul-de-sac. Includes driveway parking, a garden and excellent commuter links.",
+            "location": "Reading, Berkshire RG1",
+            "picture": "/images/home-16.jpg",
+            "url": "properties/prop16.html",
+            "added": {
+                "month": "August",
+                "day": 11,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop17",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 255000,
+            "tenure": "Leasehold",
+            "description": "Contemporary one bedroom apartment within a newly built development, offering excellent access to London via rail.",
+            "location": "Milton Keynes MK9",
+            "picture": "/images/flat-17.jpg",
+            "url": "properties/prop17.html",
+            "added": {
+                "month": "September",
+                "day": 6,
+                "year": 2023
+            }
+        }
+]}
